@@ -9,7 +9,7 @@ Visit my profile on [https://robinschmid.github.io](https://robinschmid.github.i
 
 [Download Poster](2024_robin_schmid_metabolomics_poster.png?raw=true)
 
-<img src="2024_robin_schmid_metabolomics_poster.png" width="50%">
+<a href="2024_robin_schmid_metabolomics_poster.png?raw=true"><img src="2024_robin_schmid_metabolomics_poster.png" width="50%"></a>
 
 This poster combines tools and community resources like mzmine, Feature-based Molecular Networking (FBMN) in mzmine or GNPS, and domain specific Mass Spectrometry Search Tools (MASST) like microbeMASST, plantMASST, and foodMASST. These tools enable searches of (un)known fragmentation mass spectra against all public MS2 data within ~1 second. Matches are then mapped onto the global foodomics ontology and the NCBI taxonomy to provide context. This  reveals potential sources and producers for known metabolites or unknown MS2 features.   
 
